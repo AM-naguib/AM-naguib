@@ -25,13 +25,13 @@
 <br><br><br><br><br>
 <hr>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mohamedabdelhaleam&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AM-naguib&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
 
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/am-naguib/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Abdelhaleam-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/am-naguib/" target="_blank"><img src="https://img.shields.io/badge/-AM-naguib?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="[https://www.linkedin.com/in/mohamed-abdelhaleam-4a0137201/](https://www.facebook.com/engmohamedabdelhaleam/)" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Abdelhaleam-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
