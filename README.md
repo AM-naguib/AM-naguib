@@ -20,8 +20,8 @@
 -->
 
 <hr/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedabdelhaleam&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="mohamedabdelhaleam" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mohamedabdelhaleam&show_icons=true&locale=en&theme=chartreuse-dark" alt="mohamedabdelhaleam" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AM-naguib&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="AM-naguib" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=AM-naguib&show_icons=true&locale=en&theme=chartreuse-dark" alt="AM-naguib" width="410" /></p>
 <br><br><br><br><br>
 <hr>
 
