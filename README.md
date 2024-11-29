@@ -17,30 +17,31 @@ I'm **Ahmed Naguib**, a passionate Backend Developer based in Cairo, Egypt. I sp
 
 - 🏢 **Current Role**: Backend Developer at **Echopus**
 - 🌱 **Learning**: Exploring more about modern web technologies, microservices, and cloud computing.
-- 💬 **Ask me about**: PHP, Laravel, MySQL, HTML, CSS, JavaScript, Git, and API development.
+- 💬 **Ask me about**: PHP, Laravel, MySQL, HTML5, CSS3, JavaScript, Git, and API development.
 - ⚡ **Fun Fact**: I'm a coffee enthusiast, and nothing beats starting my day with a strong cup of coffee!
 
 ---
 
 ## 🛠 &nbsp;Tech Stack
 
-I work with a wide range of technologies to build scalable and efficient web applications:
+Here are the key technologies I work with:
 
 - **Languages & Frameworks**:
   - ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php) 
   - ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-  - ![ReactJS](https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=react)
-  - ![NextJS](https://img.shields.io/badge/-NextJs-05122A?style=flat&logo=NextJs)
 
 - **Databases**:
   - ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 
-- **Tools & Others**:
+- **Other Skills**:
+  - ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5) 
+  - ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+  - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)  
+  - ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)  
   - ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
   - ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-  - ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  - ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+  - **OOP & Restful APIs**
 
 ---
 
